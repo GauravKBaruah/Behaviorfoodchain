@@ -6,8 +6,11 @@
 # R scripts for reproducing the figures
 
 *1.* `figure_2.R` : R script to reproduce figure 2.
+
 *2.* `figure_3.R` : R script to reproduce figure 3.
+
 *3.* `figure_4.R` : R script to reproduce figure 4.
+
 *4.* `figure_5.R` : R script to reproduce figure 5. This is Empirical Dynamical Analysis (EDM). We use the for this
 script Redm package of which the R package version has to be 0.6.9.
 
